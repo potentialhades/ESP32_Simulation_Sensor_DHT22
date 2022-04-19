@@ -1,6 +1,8 @@
 # IoT_Simulation
 Temperature and Humidity microcontroller ESP32 on Python (Wokwi Simulation + Hivemq Broker Client)
 
+Run the simulation on Wokwi and see the messages on Hivemq Broker
+
 Project on Wokwi (Micropython on ESP32): https://wokwi.com/projects/328777740948865619
 
 Where you can see the messages on broker -> Hivemq Broker Client: http://www.hivemq.com/demos/websocket-client/
@@ -15,5 +17,3 @@ Where you can see the messages on broker -> Hivemq Broker Client: http://www.hiv
 - Topic: sala306/#
 - QoS: 0
 - Click on 'Subscribe'
-
-Run the simulation on Wokwi and see the messages on Hivemq Broker.
