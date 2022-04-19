@@ -3,7 +3,7 @@ Temperature and Humidity microcontroller ESP32 on Python (Wokwi Simulation + Hiv
 
 Project on Wokwi (Micropython on ESP32): https://wokwi.com/projects/328777740948865619
 
-Where to see the messages on broker -> Hivemq Broker Client: http://www.hivemq.com/demos/websocket-client/
+Where you can see the messages on broker -> Hivemq Broker Client: http://www.hivemq.com/demos/websocket-client/
 
 Host - broker.mqttdashboard.com
 Port - 8000
