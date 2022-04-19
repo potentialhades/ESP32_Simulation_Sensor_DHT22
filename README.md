@@ -11,12 +11,7 @@ KeepAlive - 60
 Click on 'Connect'
 
 Subsciptions -> Add new Topic
-Topic: sala306/umidade
-QoS: 0
-- Subscribe -
-
-Subsciptions -> Add new Topic
-Topic: sala306/temp
+Topic: sala306/#
 QoS: 0
 - Subscribe -
 
