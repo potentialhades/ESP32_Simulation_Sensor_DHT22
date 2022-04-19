@@ -10,8 +10,8 @@ Port - 8000
 KeepAlive - 60
 Click on 'Connect'
 
-Subsciptions -> Add new Topic
-Topic: sala306/#
+- Subsciptions -> Add new Topic
+- Topic: sala306/#
 QoS: 0
 - Subscribe -
 
