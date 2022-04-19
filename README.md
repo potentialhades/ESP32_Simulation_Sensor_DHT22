@@ -13,6 +13,6 @@ Click on 'Connect'
 - Subsciptions -> Add new Topic
 - Topic: sala306/#
 QoS: 0
-- Subscribe -
+-> Subscribe
 
 Run the simulation Wokwi and see the messages on Broker.
