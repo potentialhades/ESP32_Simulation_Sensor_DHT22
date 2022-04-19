@@ -5,7 +5,7 @@ Run the simulation on Wokwi and see the messages on Hivemq Broker
 
 Project on Wokwi (Micropython on ESP32): https://wokwi.com/projects/328777740948865619
 
-Where you can see the messages on broker -> Hivemq Broker Client: http://www.hivemq.com/demos/websocket-client/
+Link Broker -> Hivemq Broker Client: http://www.hivemq.com/demos/websocket-client/
 
 # Connection
 - Host -> broker.mqttdashboard.com
