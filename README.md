@@ -27,7 +27,7 @@ Run the simulation on Wokwi and see the ESP32 temperature (°C) and humidity (%)
 
 # - Option 2: App MQTT Dash on Smartphone
 # Config Broker
-- Click on '+' button (upper right corner of the screen)
+- Click on button '+' (upper right corner of the screen)
 - Name the broker
 - Address: broker.hivemq.com
 - Port: 1883
@@ -35,7 +35,7 @@ Run the simulation on Wokwi and see the ESP32 temperature (°C) and humidity (%)
 
 # Subscribe Temperature
 -  Click on Broker
--  Click on '+' button (upper right corner of the screen)
+-  Click on button '+' (upper right corner of the screen)
 -  Choose type: 'Text'
 -  Name: Temperature
 -  Topic: sala306/temp
@@ -44,7 +44,7 @@ Run the simulation on Wokwi and see the ESP32 temperature (°C) and humidity (%)
 
 # Subscribe Humidity
 -  Click on Broker
--  Click on '+' button (upper right corner of the screen)
+-  Click on button '+' (upper right corner of the screen)
 -  Choose type: 'Text'
 -  Name: Humidity
 -  Topic: sala306/umidade
