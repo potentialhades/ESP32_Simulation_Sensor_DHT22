@@ -23,6 +23,8 @@ Language: Portuguese
 - QoS: 0
 - Click on 'Subscribe'
 
+- Run the simulation on Wokwi and see the ESP32 temperature (°C) and humidity (%) publish on 'Messages'
+
 # - Option 2: App MQTT Dash on Smartphone
 # Config Broker
 - Click on '+' button (upper right corner of the screen)
@@ -48,3 +50,5 @@ Language: Portuguese
 -  Topic: sala306/umidade
 -  Postfix: %
 - Click on diskette button (upper right corner of the screen) to save
+
+- Run the simulation on Wokwi and see the ESP32 temperature (°C) and humidity (%) publish on the cards created
