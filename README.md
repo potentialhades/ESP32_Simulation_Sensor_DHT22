@@ -11,7 +11,7 @@ Broker -> option 2: Install the app MQTT DASH on Google Play Store
 
 Language: Portuguese
 
-# Option 1: Hivemq Broker website config
+# - Option 1: Hivemq Broker website config
 # Connection
 - Host -> broker.mqttdashboard.com
 - Port -> 8000
@@ -23,7 +23,7 @@ Language: Portuguese
 - QoS: 0
 - Click on 'Subscribe'
 
-# Option 2: App MQTT Dash on Smartphone
+# - Option 2: App MQTT Dash on Smartphone
 # Config Broker
 - Click on '+' button (upper right corner of the screen)
 - Name the broker
@@ -31,8 +31,7 @@ Language: Portuguese
 - Port: 1883
 - Click on diskette button (upper right corner of the screen) to save
 
-# Subscritions
-# Temperature
+# Subscribe Temperature
 -  Click on Broker
 -  Click on '+' button (upper right corner of the screen)
 -  Choose type: 'Text'
@@ -41,7 +40,7 @@ Language: Portuguese
 -  Postfix: °C
 - Click on diskette button (upper right corner of the screen) to save
 
-# Humidity
+# Subscribe Humidity
 -  Click on Broker
 -  Click on '+' button (upper right corner of the screen)
 -  Choose type: 'Text'
