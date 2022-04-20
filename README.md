@@ -24,7 +24,7 @@ Language: Portuguese
 - Click on 'Subscribe'
 
 # App MQTT Dash on Smartphone
-# Config the Broker
+# Config Broker
 - Click on '+' button (upper right corner of the screen)
 - Name the broker
 - Address: broker.hivemq.com
