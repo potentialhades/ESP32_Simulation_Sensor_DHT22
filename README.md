@@ -7,7 +7,7 @@ Project on Wokwi (Micropython on ESP32): https://wokwi.com/projects/328777740948
 
 Broker -> option 1: Hivemq Broker Client: http://www.hivemq.com/demos/websocket-client/
 
-Broker -> option 2: install the app MQTT DASH on Google Play Store
+Broker -> option 2: Install the app MQTT DASH on Google Play Store
 
 Language: Portuguese
 
