@@ -5,11 +5,11 @@ Run the simulation on Wokwi and see the messages on Hivemq Broker
 
 Project on Wokwi (Micropython on ESP32): https://wokwi.com/projects/328777740948865619
 
-Link Broker -> Hivemq Broker Client: http://www.hivemq.com/demos/websocket-client/ or install the app MQTT DASH on Google Play Store
+Broker -> option 1: Hivemq Broker Client: http://www.hivemq.com/demos/websocket-client/ - option 2: install the app MQTT DASH on Google Play Store
 
 Language: Portuguese
 
-# Hivemq Broker website
+# Option 1: Hivemq Broker website config
 # Connection
 - Host -> broker.mqttdashboard.com
 - Port -> 8000
@@ -21,7 +21,7 @@ Language: Portuguese
 - QoS: 0
 - Click on 'Subscribe'
 
-# App MQTT Dash on Smartphone
+# Option 2: App MQTT Dash on Smartphone
 # Config Broker
 - Click on '+' button (upper right corner of the screen)
 - Name the broker
