@@ -1,5 +1,5 @@
 # IoT_Simulation
-Temperature and Humidity microcontroller ESP32 on Python (Wokwi Simulation + Hivemq Broker Client)
+Temperature (°C) and Humidity (%) microcontroller ESP32 on Python (Wokwi Simulation + Hivemq Broker Client)
 
 Run the simulation on Wokwi and see the messages on Hivemq Broker
 
