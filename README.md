@@ -13,8 +13,8 @@ Language: Portuguese
 
 # - Option 1: Hivemq Broker website config
 # Connection
-- Host -> broker.mqttdashboard.com
-- Port -> 8000
+- Host -> mqtt-dashboard.com
+- Port -> 8884
 - KeepAlive -> 60
 - Click on 'Connect'
 
